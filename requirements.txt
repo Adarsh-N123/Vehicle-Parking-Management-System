@@ -1,5 +1,3 @@
-
-jsonlib
 Django
 random2
 traceback2
